@@ -1,7 +1,6 @@
 - 👋 Hi, I’m WuYongJun and go by Jackson
 - 👀 I’m interested in Fontend
 - 🌱 I’m currently learning Web
-- 💞️ 
 - 📫 How to reach me   
 https://www.instagram.com/jacksonwuyj/
 
